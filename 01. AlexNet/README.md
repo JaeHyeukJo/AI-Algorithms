@@ -6,7 +6,7 @@
     $ pip install -r requirements.txt
 
 ## Data Preparation
-Follow link  => [Datasets](https://github.com/JaeHyeukJo/AI-Algorithms/tree/main/01.AlexNet/data)
+Follow link  => [Datasets](https://github.com/JaeHyeukJo/AI-Algorithms/tree/main/01.%20AlexNet/data)
 
 ## Run Example
 ```
