@@ -2,7 +2,7 @@
 
 ## Installation
     $ git clone https://github.com/JaeHyeukJo/AI-Algorithms.git
-    $ cd Al-Algorithms/03.YOLOv5
+    $ cd Al-Algorithms/01.YOLOv5
     $ pip install -r requirements.txt
 
 ## Run Example

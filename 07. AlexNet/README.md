@@ -2,7 +2,7 @@
 
 ## Installation
     $ git clone https://github.com/JaeHyeukJo/AI-Algorithms.git
-    $ cd Al-Algorithms/01.AlexNet
+    $ cd Al-Algorithms/07.AlexNet
     $ pip install -r requirements.txt
 
 ## Data Preparation

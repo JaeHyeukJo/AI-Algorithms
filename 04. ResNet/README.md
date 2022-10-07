@@ -2,7 +2,7 @@
 
 ## Installation
     $ git clone https://github.com/JaeHyeukJo/AI-Algorithms.git
-    $ cd Al-Algorithms/02.ResNet
+    $ cd Al-Algorithms/04.ResNet
 
 ## Run Example
 ```
